@@ -15,3 +15,11 @@
 - cscs60
 
 コンフィグファイル、キーマップファイルは[qmk_firmware](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/keyboards/sarasarado_ble/config)レポジトリで提供します。
+
+まず使いたいときには[gettingstart](https://github.com/hatanoh/BMPCommonFirmware/blob/master/Doc/GettingStart.md)
+
+キーマップのカスタマイズのヒントは[Customize](https://github.com/hatanoh/BMPCommonFirmware/blob/master/Doc/Customize.md)
+
+トラブルが起きたときのヒントは[troubleshooting](https://github.com/hatanoh/BMPCommonFirmware/blob/master/Doc/Troubleshooting.md)
+
+にあります。
