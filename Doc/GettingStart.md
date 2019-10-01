@@ -17,7 +17,8 @@
 DFUで起動します。リセットボタンを押しながらUSBで接続します。
 
 新しいブートローダが書き込まれていれば BLEMICROPRO ドライブが見えます。
-![Drive UF2]()
+
+![Drive UF2](https://github.com/hatanoh/BMPCommonFirmware/raw/master/Doc/picture/BMP_DFU.PNG)
 
 中にはINDEX.HTMとINFO_UF2.TXTがあり、INFO_UF2.TXTの中に書かれたバージョンが期待したバージョンであることを確認します。
 ```
@@ -33,7 +34,8 @@ Config version: 2
 
 再起動のあと再度ドライブを開くと中身が増えています
 
-![Drive Firmware]()
+![Drive Firmware](https://github.com/hatanoh/BMPCommonFirmware/raw/master/Doc/picture/BMP_FIRM.PNG)
+
 中のVERSION.TXTを開き期待したバージョンであることを確認します。
 ```
 API version: 3
