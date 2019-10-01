@@ -1,0 +1,5 @@
+## Troubleshooting
+### tap/holdのキーが期待通りに動かない
+標準状態ではTAPPING_TERMが設定されていませんので正しく動きません。
+TAPTERM.JSNファイルもコピーして下さい(TAPPINGTERM 200 の物が用意されています。必要に応じて変更して下さい)
+
