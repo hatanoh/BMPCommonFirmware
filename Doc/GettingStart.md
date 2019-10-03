@@ -2,7 +2,7 @@
 
 ## ファームウェアをダウンロードする
 
-[ファームウェアのリリースページ](https://github.com/hatanoh/BMPCommonFirmware/releases/)からダウンロードします
+[ファームウェアのリリースページ](https://github.com/hatanoh/qmk_firmware/releases/tag/bmp-0.2.0-20191001300)からダウンロードします
 
 対応するブートローダのバージョンが書かれていますので、確認します。
 
