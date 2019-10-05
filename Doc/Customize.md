@@ -1,11 +1,10 @@
 ## Customize
 
-### ‚±‚Ìƒtƒ@[ƒ€‚Å’Ç‰Á‚³‚ê‚Ä‚¢‚éƒL[ƒR[ƒh
-Š¿š•ÏŠ·ƒL[‚âATAP‚Å•¶š/HOLD‚ÅƒŒƒCƒ„•ÏX‚ÌƒL[‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚Ü‚·B
+### ã“ã®ãƒ•ã‚¡ãƒ¼ãƒ ã§è¿½åŠ ã•ã‚Œã¦ã„ã‚‹ã‚­ãƒ¼ã‚³ãƒ¼ãƒ‰
+æ¼¢å­—å¤‰æ›ã‚­ãƒ¼ã‚„ã€TAPã§æ–‡å­—/HOLDã§ãƒ¬ã‚¤ãƒ¤å¤‰æ›´ã®ã‚­ãƒ¼ãŒè¿½åŠ ã•ã‚Œã¦ã„ã¾ã™ã€‚
 
-Š¿š•ÏŠ·ƒL[‚ÍAG_NORM‚Ìó‘Ô‚ÅWindowsBAG_SWAP‚Ìó‘Ô‚ÅLANG1/LANG2‚ÆA’Êí‚Ì‹t‚É‚È‚Á‚Ä‚¢‚Ü‚·‚Ì‚Å’ˆÓ‚µ‚Ä‰º‚³‚¢B
+æ¼¢å­—å¤‰æ›ã‚­ãƒ¼ã¯AG_NORMã®çŠ¶æ…‹ã§Windowsã€‚AG_SWAPã®çŠ¶æ…‹ã§LANG1/LANG2ã¨ã€é€šå¸¸ã®é€†ã«ãªã£ã¦ã„ã¾ã™ã®ã§æ³¨æ„ã—ã¦ä¸‹ã•ã„ã€‚
 
-ƒŒƒCƒ„‚ÍA0/1‚ğƒfƒtƒHƒ‹ƒgƒŒƒCƒ„‚Æ‚µ‚Äg‚¢A2/3/4/5‚ğƒ‚[ƒƒ“ƒ^ƒŠ‚Åg‚¤‚Ì‚ª‘O’ñ‚É‚È‚Á‚Ä‚¢‚Ü‚·B
+è¿½åŠ ã•ã‚ŒãŸã‚­ãƒ¼ã«ã¤ã„ã¦ã¯ãƒ¬ãƒã‚¸ãƒˆãƒªã®[readmeãªã©](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/keyboards/sarasarado_ble/keymaps/default)ã‚’å‚ç…§ã—ã¦ä¸‹ã•ã„ã€‚
 
-’Ç‰Á‚³‚ê‚½ƒL[‚É‚Â‚¢‚Ä‚ÍƒŒƒ|ƒWƒgƒŠ‚Ì[readme‚È‚Ç](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/keyboards/sarasarado_ble/keymaps/default)‚ğQÆ‚µ‚Ä‰º‚³‚¢B
-g‚¢•û‚ÍƒŒƒ|ƒWƒgƒŠ‚Ì[keyboards/sarasarado_ble/config](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/keyboards/sarasarado_ble/config)‚É‚ ‚éƒL[ƒ}ƒbƒv‚ğQÆ‚·‚é‚Æ—Ç‚¢‚©‚à‚µ‚ê‚Ü‚¹‚ñB
+ä½¿ã„æ–¹ã¯ãƒ¬ãƒã‚¸ãƒˆãƒªã®[keyboards/sarasarado_ble/config](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/keyboards/sarasarado_ble/config)ã«ã‚ã‚‹ã‚­ãƒ¼ãƒãƒƒãƒ—ã‚’å‚ç…§ã™ã‚‹ã¨è‰¯ã„ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€‚
