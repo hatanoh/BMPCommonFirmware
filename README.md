@@ -16,6 +16,8 @@
 
 コンフィグファイル、キーマップファイルは[qmk_firmware](https://github.com/hatanoh/qmk_firmware/tree/dev/ble_micro_pro/)レポジトリで提供します。
 
+ファームウェアは[リリースページ](https://github.com/hatanoh/qmk_firmware/releases/)からダウンロードします
+
 まず使いたいときには[gettingstart](https://github.com/hatanoh/BMPCommonFirmware/blob/master/Doc/GettingStart.md)
 
 キーマップのカスタマイズのヒントは[Customize](https://github.com/hatanoh/BMPCommonFirmware/blob/master/Doc/Customize.md)
